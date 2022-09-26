@@ -1,0 +1,24 @@
+
+  "by": "symbol",
+  "valid_key": true,
+  "results": {
+    "PETR4": {
+      "symbol": "PETR4",
+      "name": "Petrobras",
+      "company_name": "Petroleo Brasileiro S.A. Petrobras",
+      "document": "33.000.167/0001-01",
+      "description": "Pesquisa. Lavra. Refinação. Processamento. Comércio E Transporte de Petróleo. de Seus Derivados. de Gás Natural E de Outros Hidrocarbonetos Fluidos. Além Das Atividades Vinculadas à Energia.",
+      "website": "http://www.petrobras.com.br/",
+      "region": "Brazil/Sao Paulo",
+      "currency": "BRL",
+      "market_time": {
+        "open": "10:00",
+        "close": "17:30",
+        "timezone": -3
+      },
+      "market_cap": 442524.0,
+      "price": 31.94,
+      "change_percent": 2.47,
+      "updated_at": "2022-09-22 17:07:34"
+    }
+  },
